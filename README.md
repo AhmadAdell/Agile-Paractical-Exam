@@ -1,7 +1,7 @@
 #hospitalManagemntSystem
 
-Proiduct Owner: Omar
-Scrum MAster  : Ahmed
+- Proiduct Owner: Omar
+- Scrum MAster  : Ahmed
 
 BackEnd Team
 - Zyad	Role  : developer  Expertise:PHP, Cloud Solutions
@@ -10,9 +10,9 @@ BackEnd Team
 
 FrontEnd Team 
 
--Khaled  Role : UX Designer 
--Nada    Role : Developer  Expertise: JavaScript,NodeJS
--Akram   Role : Devoloper  Expertise: NodeJs , Angular7
+- Khaled  Role : UX Designer 
+- Nada    Role : Developer  Expertise: JavaScript,NodeJS
+- Akram   Role : Devoloper  Expertise: NodeJs , Angular7
 
 Testing Team
 
