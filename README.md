@@ -28,4 +28,8 @@ possible stake holders :
 - Nurses
 - pharmacys
  
+JIRA :
 
+
+convention use regarding the story point
+estimation : Modified Fibonacci sequence
